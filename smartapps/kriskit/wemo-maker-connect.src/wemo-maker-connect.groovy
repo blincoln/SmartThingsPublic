@@ -17,7 +17,7 @@
  */
 definition(
 	name: "Wemo Maker (Connect)",
-	namespace: "kriskit.wemo",
+	namespace: "kriskit",
 	author: "Chris Kitch",
 	description: "Allows you to integrate your WeMo Maker with SmartThings.",
 	category: "My Apps",
